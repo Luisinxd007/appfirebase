@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331658418710",
+    "project_id": "flutter-base5b",
+    "storage_bucket": "flutter-base5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331658418710:android:c21edee1adc579db21b337",
+        "android_client_info": {
+          "package_name": "com.torres5b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XT5QC_T2pUU30SMWIvSXBG_wP79fMrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331658418710:android:70e3b90f03c9438321b337",
+        "android_client_info": {
+          "package_name": "ltorres.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XT5QC_T2pUU30SMWIvSXBG_wP79fMrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

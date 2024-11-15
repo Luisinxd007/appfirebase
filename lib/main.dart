@@ -1,3 +1,4 @@
+import 'package:appfirebase/page/edit_usuario.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'package:flutter/material.dart';
@@ -27,6 +28,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/add': (context) =>
             const AddUsuario(), // Asegúrate de que esta ruta esté definida
+        '/edit': (context) => const EditUsuario(),
       },
       debugShowCheckedModeBanner: false, // Desactiva la etiqueta de depuración
     );
